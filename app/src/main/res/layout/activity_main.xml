@@ -45,6 +45,4 @@
             app:menu="@menu/navdrawer_menu"
             app:headerLayout="@layout/nav_header" />
     </androidx.drawerlayout.widget.DrawerLayout>
-
-    <!-- TODO (04) Add the NavigationView at the bottom of the DrawerLayout -->
 </layout>
